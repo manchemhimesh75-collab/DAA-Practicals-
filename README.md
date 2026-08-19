@@ -48,7 +48,7 @@ int main() {
         return 0; 
 }
 
-#SELECTION SORT
+# SELECTION SORT
 #include <iostream>
 using namespace std;
 
@@ -109,7 +109,7 @@ int main()
     return 0;
 }
 
-#INSERTION SORT
+# INSERTION SORT
  #include <iostream>
 using namespace std;
 
